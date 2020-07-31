@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="org.tdd.sample.TDD" target="1.8" />
+      <module name="org.tdd.sample.TDD.main" target="1.8" />
+      <module name="org.tdd.sample.TDD.test" target="1.8" />
       <module name="TDD_main" target="1.8" />
       <module name="TDD_test" target="1.8" />
     </bytecodeTargetLevel>

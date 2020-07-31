@@ -2,7 +2,12 @@
 
 public class TicTacToe {
 
+    public static void main(String[] args){
+        TicTacToe ttt = new TicTacToe();
+        String s = ttt.play(1,4);
+        System.out.println("s="+s);
 
+    }
     private Character[][] board = {
             {'\0','\0','\0'},
             {'\0','\0','\0'},
