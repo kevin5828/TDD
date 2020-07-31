@@ -60,12 +60,5 @@ public class TicTacToe1 {
 
   private char lastPlayer = '\0';
 
-    public static void main(String[] args){
-        System.out.println("超出Outside board Y!");
-        TicTacToe1 ttt = new TicTacToe1();
-        ttt.play(1,2);
-//        System.out.println("s="+s);
-
-    }
 
 }
